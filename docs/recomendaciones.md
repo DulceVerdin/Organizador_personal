@@ -1,3 +1,3 @@
 Mejora visual
-Agregar Modulo administrativo.
-Agregar apartado configuracion.
+Agregar Modulo administrativo
+.
